@@ -1,0 +1,11 @@
+C:\Users\Tsynyavskyy.Dm.2022\source\repos\Kalkulacka2\Kalkulacka2\bin\Debug\netcoreapp2.1\Kalkulacka2.deps.json
+C:\Users\Tsynyavskyy.Dm.2022\source\repos\Kalkulacka2\Kalkulacka2\bin\Debug\netcoreapp2.1\Kalkulacka2.runtimeconfig.json
+C:\Users\Tsynyavskyy.Dm.2022\source\repos\Kalkulacka2\Kalkulacka2\bin\Debug\netcoreapp2.1\Kalkulacka2.runtimeconfig.dev.json
+C:\Users\Tsynyavskyy.Dm.2022\source\repos\Kalkulacka2\Kalkulacka2\bin\Debug\netcoreapp2.1\Kalkulacka2.dll
+C:\Users\Tsynyavskyy.Dm.2022\source\repos\Kalkulacka2\Kalkulacka2\bin\Debug\netcoreapp2.1\Kalkulacka2.pdb
+C:\Users\Tsynyavskyy.Dm.2022\source\repos\Kalkulacka2\Kalkulacka2\obj\Debug\netcoreapp2.1\Kalkulacka2.csprojAssemblyReference.cache
+C:\Users\Tsynyavskyy.Dm.2022\source\repos\Kalkulacka2\Kalkulacka2\obj\Debug\netcoreapp2.1\Kalkulacka2.csproj.CoreCompileInputs.cache
+C:\Users\Tsynyavskyy.Dm.2022\source\repos\Kalkulacka2\Kalkulacka2\obj\Debug\netcoreapp2.1\Kalkulacka2.AssemblyInfoInputs.cache
+C:\Users\Tsynyavskyy.Dm.2022\source\repos\Kalkulacka2\Kalkulacka2\obj\Debug\netcoreapp2.1\Kalkulacka2.AssemblyInfo.cs
+C:\Users\Tsynyavskyy.Dm.2022\source\repos\Kalkulacka2\Kalkulacka2\obj\Debug\netcoreapp2.1\Kalkulacka2.dll
+C:\Users\Tsynyavskyy.Dm.2022\source\repos\Kalkulacka2\Kalkulacka2\obj\Debug\netcoreapp2.1\Kalkulacka2.pdb
